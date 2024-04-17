@@ -1,0 +1,257 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+  
+  /* Navbar started */
+  
+  nav {
+    background-color: #19b9ff;
+    height: 70px;
+  }
+  
+  body #bg-body {
+    background-color: lawngreen;
+  }
+  
+  input {
+    border-radius: 5px;
+    width: 25rem;
+    padding: 12px;
+  }
+  
+  .block{
+    font-size: 45px;
+  }
+  
+  
+  .button {
+    border: 1px solid #ffffff;
+  }
+  
+  .buttons-group .btn-login {
+    padding-right: 15px;
+  }
+  
+  /* Navbar ended */
+  
+  .items img {
+    width: 50px;
+  }
+  
+  .items p {
+    font-size: 12px;
+  }
+  
+  .card img {
+    width: 120px;
+    margin: 0 auto;
+  }
+  .card {
+    background-color: #ffffff;
+  }
+  
+  .bg-pink {
+    background-color: #f83e87;
+  }
+  
+  .card-btn {
+    padding: 5px;
+    color: #198754;
+    border: 1px solid white;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .shop-by-price-btn button {
+    padding: 15px;
+    border-radius: 15px;
+    width: 16rem;
+    border: 1px solid transparent;
+    background-color: #fff348;
+  }
+  
+  .shop-by-price-btn :hover {
+    background-color: #838383;
+    border-radius: 15px;
+  }
+  
+  .brands img {
+    padding: 10px;
+    width: 100px;
+  }
+  
+  .reviews img {
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    width: 100px;
+    border-radius: 10px;
+  }
+  
+  .mt-6 {
+    margin-top: 100px;
+  }
+  .reason-box{
+    background-color: #007ad5;
+  }
+  .reason-box img{
+    width: 200px;
+  }
+  .btn-orange {
+    background-color: #ff9e2a;
+    color: #ffffff;
+  }
+  
+  .features img {
+    width: 80px;
+  }
+  
+  .features h1 {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .features p {
+    font-size: 15px;
+  }
+  
+  footer {
+    background-color: #48afff;
+    width: 100%;
+  }
+  
+  footer ul li {
+    list-style: none;
+    padding: 5px;
+    font-size: 14px;
+  }
+  footer ul li a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .playstore-btn img {
+    width: 150px;
+  }
+  
+  .footer-blue {
+    background-color: #18b8fe;
+  }
+  
+  .fa-brands {
+    color: #ffffff;
+    font-size: 22px;
+    padding: 8px;
+  }
+  
+  .text-purple {
+    color: darkblue;
+  }
+  .logo{
+      width:120px;
+  }
+  .fa-star{
+    color:#ffbe00;
+    font-size: 12px;
+  }
+  .fa-user{
+    border-radius: 20px;
+    border: 1px solid #dcdcdc;
+    padding: 12px;
+    font-size: 16px;
+    color: #808080;
+  }
+  .star img{
+    width: 15px;
+    margin-top: 0px;
+  }
+  .margin-bottom{
+    margin-bottom: 0px;
+  }
+  .Testinomial{
+    font-size: 15px;
+    margin-right:100px;
+  }
+  .date{
+    font-size: 12px;
+    color: #808080;
+  }
+  .verified img{
+    width: 25px;
+  }
+  .verified p{
+     margin-top: 19px;
+     font-size: 14px;
+     font-weight: bold;
+     color: #00b383;
+  
+  }
+  .Testinomial-main{
+    padding-bottom: 50px;
+  }
+  .Testinomial-card{
+    padding: 10px
+  }
+  .mobile img {
+    width: 330px;
+  }
+  .pic{
+    border-radius: 20px;
+  }
+  @media (max-width: 768px) {
+    .buttons-group button {
+      display: none;
+    }
+    input {
+      border-radius: 5px;
+      width: 15rem;
+      padding: 6px;
+      margin-top: 5px;
+    }
+    .brands {
+      text-align: center;
+    }
+    .fa-bars {
+      margin-left: 12px;
+      font-size: 25px;
+      margin-top: 5px;
+    }
+    .text-responsive {
+      font-size: 15px;
+    }
+    .font-small{
+      font-size: 11px;
+  
+  
+    }
+    .fa-brands {
+    color: #ffffff;
+    font-size: 18px;
+    padding: 5px;
+    }
+    .reason-box img{
+    width: 120px;
+  }
+  .reason-box h3{
+    font-size:22px;
+  }
+  .reason-box button{
+    width: 110px;
+  }
+  .review-text{
+    font-size: 13px;
+  }
+  .display-none{
+    display: none;
+  }
+  .items p {
+    font-size: 10px;
+  }
+  
+  
+  }
+  
